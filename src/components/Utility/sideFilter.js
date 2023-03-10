@@ -3,7 +3,7 @@ import { Row } from 'react-bootstrap'
 
 const SideFilter = () => {
     return (
-        <div className="mt-3">
+        <div className="mt-3 side-filter">
         <Row>
           <div className="d-flex flex-column mt-2">
             <div className="filter-title">الفئة</div>

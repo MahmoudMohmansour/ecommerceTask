@@ -6,7 +6,7 @@ import rate from "../../images/rate.png";
 import { Link } from 'react-router-dom';
 const ProductCard = () => {
     return (
-        <Col xs="6" sm="6" md="4" lg="3" className="d-flex">
+        <Col xs="12" sm="12" md="4" lg="3" className="d-flex">
 
             <Card
                 className="my-2"
@@ -32,13 +32,13 @@ const ProductCard = () => {
                         }}
                     />
                 </div>
-                <Card.Body>
+                <Card.Body >
                     <Card.Title>
                         <div className="card-title">
                             سود كربون ساعة يد ذكية بيب إس أسود كربون{" "}
                         </div>
                     </Card.Title>
-                    <Card.Text>
+                    <Card.Text className="card-text-handel">
                         <div className="d-flex justify-content-between ">
                             <div className="d-flex">
                                 <img

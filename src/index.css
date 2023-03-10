@@ -685,3 +685,50 @@ svg:hover{
   text-align: center;
 }
 /* end filter */
+
+/* media query*/
+
+@media (max-width:991px) {
+  .sidebar{
+    margin-top: 50px;
+  }
+
+  .card-body{
+    margin-top: -17px;
+  }
+  .side-filter{
+    margin-right: -24px;
+  }
+  .product-gallary-card{
+    margin: auto;
+  }
+}
+
+@media (max-width:767px) {
+
+    .slider-title {
+    color: #915970;
+    font-family: Almarai;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 25px;
+    text-align: center;
+  }
+  
+  
+  .slider-text {
+    color: #915970;
+    font-family: Almarai;
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 30px;
+    text-align: center;
+  }
+  .side-filter{
+    margin-right: -7px;
+  }
+  .sidebar{
+    margin-top: 50px;
+  }
+}

@@ -4,11 +4,11 @@ import mobile from '../../images/mobile.png'
 const UserAllOrderCard = () => {
     return (
         <div>
-            <Row className="d-flex mb-2">
-                <Col xs="3" md="2" className="d-flex justify-content-start">
+            <Row className="d-flex mb-2 ">
+                <Col xs="3" md="2" className="d-flex justify-content-start ">
                     <img width="93px" height="120px" src={mobile} alt="" />
                 </Col>
-                <Col xs="8" md="6">
+                <Col xs="8" md="6" className='mx-2'>
                     <div className="d-inline pt-2 cat-title">
                         آيفون XR بذاكرة سعة 128 جيجابايت ويدعم تقنية 4G LTE مع تطبيق فيس
                         تايم (برودكت) أحمر

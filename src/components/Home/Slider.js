@@ -49,7 +49,7 @@ const Slider = () => {
         <Carousel.Item className="slider-background3" interval={2000}>
             <div className="d-flex flex-row justify-content-center align-items-center">
                 <img
-                    style={{ height: "296px", width: "373.53px" }}
+                    style={{ height: "296px", width: "313.53px" }}
                     className=""
                     src={prod3}
                     alt="First slide"
