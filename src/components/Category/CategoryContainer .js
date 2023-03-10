@@ -11,24 +11,24 @@ const CategoryContainer = () => {
         <Container >
         <div className="admin-content-text mt-2 ">كل التصنيفات</div>
             <Row className='my-2 d-flex justify-content-between'>
-                <CategoryCard title="اجهزة منزلية" img={clothe} background="#F4DBA4" />
-                <CategoryCard title=" أزياء" img={cat2} background="#F4DBA4" />
-                <CategoryCard title=" الصحة والجمال" img={labtop} background="#0034FF" />
-                <CategoryCard title=" منتجات  الاطفال" img={sale} background="#F4DBA4" />
-                <CategoryCard title=" موبايلات" img={clothe} background="#FF6262" />
-                <CategoryCard title=" المنزل والمكتب" img={pic} background="#F4DBA4" />
-                <CategoryCard title=" الكترونيات" img={clothe} background="#F4DBA4" />
-                <CategoryCard title=" الكمبيوتر" img={cat2} background="#F4DBA4" />
-                <CategoryCard title=" مستلزمات رياضية" img={labtop} background="#0034FF" />
-                <CategoryCard title=" العاب" img={sale} background="#F4DBA4" />
-                <CategoryCard title=" مستلزمات السيارات" img={clothe} background="#FF6262" />
-                <CategoryCard title=" مستحضرات تجميل" img={pic} background="#F4DBA4" />
-                <CategoryCard title="اجهزة منزلية" img={clothe} background="#F4DBA4" />
-                <CategoryCard title="اجهزة منزلية" img={cat2} background="#F4DBA4" />
-                <CategoryCard title="اجهزة منزلية" img={labtop} background="#0034FF" />
-                <CategoryCard title="اجهزة منزلية" img={sale} background="#F4DBA4" />
-                <CategoryCard title="اجهزة منزلية" img={clothe} background="#FF6262" />
-                <CategoryCard title="اجهزة منزلية" img={pic} background="#F4DBA4" />
+                <CategoryCard title="اجهزة منزلية" img={clothe} background="#53828b" />
+                <CategoryCard title=" أزياء" img={cat2} background="#53828b" />
+                <CategoryCard title=" الصحة والجمال" img={labtop} background="#53828b" />
+                <CategoryCard title=" منتجات  الاطفال" img={sale} background="#53828b" />
+                <CategoryCard title=" موبايلات" img={clothe} background="#53828b" />
+                <CategoryCard title=" المنزل والمكتب" img={pic} background="#53828b" />
+                <CategoryCard title=" الكترونيات" img={clothe} background="#53828b" />
+                <CategoryCard title=" الكمبيوتر" img={cat2} background="#53828b" />
+                <CategoryCard title=" مستلزمات رياضية" img={labtop} background="#53828b" />
+                <CategoryCard title=" العاب" img={sale} background="#53828b" />
+                <CategoryCard title=" مستلزمات السيارات" img={clothe} background="#53828b" />
+                <CategoryCard title=" مستحضرات تجميل" img={pic} background="#53828b" />
+                <CategoryCard title="اجهزة منزلية" img={clothe} background="#53828b" />
+                <CategoryCard title="اجهزة منزلية" img={cat2} background="#53828b" />
+                <CategoryCard title="اجهزة منزلية" img={labtop} background="#53828b" />
+                <CategoryCard title="اجهزة منزلية" img={sale} background="#53828b" />
+                <CategoryCard title="اجهزة منزلية" img={clothe} background="#53828b" />
+                <CategoryCard title="اجهزة منزلية" img={pic} background="#53828b" />
             </Row>
         </Container>
     )

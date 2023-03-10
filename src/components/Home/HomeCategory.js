@@ -13,12 +13,12 @@ const HomeCategory = () => {
         <Container>
             <SubTiltle title="التصنيفات" btntitle="المزيد" pathText="/allcategory" />
             <Row className='my-2 d-flex justify-content-between'>
-                <CategoryCard title="اجهزة منزلية" img={clothe} background="#F4DBA4" />
-                <CategoryCard title=" كهربية" img={cat2} background="#F4DBA4" />
-                <CategoryCard title=" مستحضرات تجميل" img={labtop} background="#0034FF" />
-                <CategoryCard title=" أطفال" img={sale} background="#F4DBA4" />
-                <CategoryCard title=" موبايلات" img={clothe} background="#FF6262" />
-                <CategoryCard title=" سيارات" img={pic} background="#F4DBA4" />
+                <CategoryCard title="اجهزة منزلية" img={clothe} background="#53828b" />
+                <CategoryCard title=" كهربية" img={cat2} background="#53828b" />
+                <CategoryCard title=" مستحضرات تجميل" img={labtop} background="#53828b" />
+                <CategoryCard title=" أطفال" img={sale} background="#53828b" />
+                <CategoryCard title=" موبايلات" img={clothe} background="#53828b" />
+                <CategoryCard title=" سيارات" img={pic} background="#53828b" />
             </Row>
         </Container>
     )
